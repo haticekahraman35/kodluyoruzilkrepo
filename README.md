@@ -4,7 +4,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![github](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/hatii/OneDrive/Masa%C3%BCst%C3%BC/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-10-29%20204307.png?version%3D1667065730145).png)
+![github]
 
 ## Installation
 
